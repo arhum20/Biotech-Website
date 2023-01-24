@@ -1,3 +1,7 @@
 .about{
     background-color: green;
 }
+
+header.bg-primary {
+    background: rgb(184, 68, 68) !important;
+}
